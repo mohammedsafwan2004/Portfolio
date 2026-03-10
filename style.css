@@ -118,10 +118,14 @@ body{
     border-radius:20px;
     backdrop-filter:blur(10px);
     transition:0.4s;
-}
+    width: 70%;
 
+}
+.card a{
+    color: aliceblue;
+}
 .card img{
-    width:100%;
+    width: 75%;
     border-radius:15px;
     margin-bottom:15px;
 }
