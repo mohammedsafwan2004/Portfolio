@@ -84,7 +84,19 @@ body{
 .home img:hover{
     transform:scale(1.05);
 }
+#about{
+    min-height: 100vh;
 
+}
+#skills{
+    min-height: 100vh;
+}
+#projects{
+    min-height: 100vh;
+}
+#contact{
+    min-height: 50vh;
+}
 /* Button */
 .btn{
     display:inline-block;
